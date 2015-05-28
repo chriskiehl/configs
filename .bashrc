@@ -18,3 +18,4 @@ else
 fi
 unset color_prompt force_color_prompt
 
+source /etc/bash_completion.d/git
